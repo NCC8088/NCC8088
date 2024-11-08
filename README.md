@@ -1,16 +1,13 @@
-###Japanese 
+### Japanese 
+:japan: Tokyo \
+:japan: Japan Skytree \
+:japan: Japan 
 
-<!--
-**NCC8088/NCC8088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+:japan: Travel Around the world \
+:japan: 10 mountains \
+:japan: Golf 70 times
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### E-mail
+:japan: 513071091@m365.fju.edu.tw \
+:japan: 513071091@m365.fju.edu.tw
